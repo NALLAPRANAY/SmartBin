@@ -52,7 +52,7 @@ Using the smart dustbin, we will move a step ahead
 towards smartly managing waste with minimal 
 human intervention.
 
-##Working
+## Working
 
 
 Arduino UNO and Node MCU are connected using a serial 
@@ -98,7 +98,7 @@ graphical interface. When the bin is about to be
 completely filled, a  notification is sent to the worker to 
 empty the bin with the location of the dustbin.
 
-##Experiments and Results
+## Experiments and Results
 
 The following experiment has been conducted on a 
 designed circuit and the percentage of bin filled is 
@@ -123,7 +123,7 @@ notification to the worker as shown in the figure 10, and
 hence felicitous emptying of the dustbin can be 
 achieved.
 
-##Conclusion
+## Conclusion
 
 The proposed system helps to keep the surroundings 
 clean as part of Swachh Bharat which is instated by the 
