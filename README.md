@@ -15,7 +15,7 @@ the dustbin**
 ## Table content
 - [Introduction](#Introducton)
 - [Working](#working)
-- [Exeperiments_and_results](#Exeperiments_and_results)
+- [Exeperiments and Results](#Exeperiments and Results)
 - [Conclusion](#Conclusion)
 - [Future_scope](#Future_Scope)
 
