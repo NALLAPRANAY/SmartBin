@@ -49,7 +49,7 @@ for (int i=0;i<=2;i++) {   //average distance
   
    
 
- //ultrasonic sensor 2 
+ 
   
 /*IR SENSOR*/
   detect_ir();
