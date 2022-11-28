@@ -1,10 +1,10 @@
 void lcd_display()
 {
- lcd.clear();
+ lcd.clear();//clears the lcd screen
 if ( dist2>45 ) {
-  lcd.setCursor(0, 0);
+  lcd.setCursor(0, 0);//seting the cursor to 0*0
   per=0;
-  lcd.println("0% FILLED");
+  lcd.println("0% FILLED");//display the value on lcd
   
   
 }
