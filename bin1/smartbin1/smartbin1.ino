@@ -20,8 +20,8 @@ long aver2[3];
 Adafruit_LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
 void setup() {       
-    Serial.begin(9600);
-    servo.attach(servoPin);  
+    Serial.begin(9600);//begin serial monitor
+    servo.attach(servoPin);  //attaching the servo
      
     pinMode(sensor, INPUT);
     pinMode(trigPin2, OUTPUT);  
@@ -30,7 +30,7 @@ void setup() {
     pinMode(buzzer, OUTPUT); 
     delay(100);
     servo.detach(); 
-     lcd.begin(16, 2);
+     lcd.begin(16, 2);//begins LCD 16*2
 } 
 
 void loop() { 
@@ -51,7 +51,7 @@ for (int i=0;i<=2;i++) {   //average distance
 
  //ultrasonic sensor 2 
   
-/*PIR SENSOR*/
+/*IR SENSOR*/
   detect_ir();
 
 }
